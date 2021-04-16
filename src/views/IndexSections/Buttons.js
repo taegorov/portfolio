@@ -37,7 +37,7 @@ class BasicElements extends React.Component {
                 </h2>
                 {/* Buttons */}
                 <h3 className="h4 text-success font-weight-bold mb-4">
-                  Buttons
+                  Buttons Yay
                 </h3>
                 {/* Button styles */}
                 <div>
