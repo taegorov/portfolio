@@ -144,8 +144,11 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          A coder of considerable range, Russian immigrant Tim Egorov 
-                          writes, stylizes and debugs all of his own code.
+                          Hello, my name is Tim Egorov. Prior to pursuing coding, I was in the sales industry for about 10 years. I spent a lot of that time selling to tech/SAAS companies, so I got a good look into their culture and day-to-day operations, and I loved what I saw.
+                          <br></br>
+                          I decided to learn Software Development because I was fascinated by the SaaS products I sold, and the tech companies I sold to. A layoff due to COVID allowed me to do some soul-searching, and I decided it was the right time to pursue learning coding as a skill.
+                          <br></br>
+                          I get fulfillment from logic puzzles, learning how things work, building things with my hands, and seeing the direct payoff of my hard work. I am, and have always been passionate about tech -- I taught myself HTML/CSS to stylize my MySpace page, and I created simple games with Macromedia Flash on my free time to show off to my friends.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
