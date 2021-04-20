@@ -220,11 +220,11 @@ class DemoNavbar extends React.Component {
                     >
                       <i className="fa fa-linkedin" />
                       <span className="nav-link-inner--text d-lg-none ml-2">
-                        Instagram
+                        LinkedIn
                       </span>
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip356693867">
-                      Add me on Instagram
+                      Add me on LinkedIn
                     </UncontrolledTooltip>
                   </NavItem>
                   <NavItem>
